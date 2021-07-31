@@ -1,0 +1,49 @@
+img.img{
+    height: 50px;
+    width:50px;
+    position: absolute;
+    top:30px;
+    left:60px;
+}
+img.img1{
+    height: 500px;
+    width:500px;
+    position: absolute;
+    left:700px;
+    top:100px;
+}
+button.btn1{
+    border-radius: 50px;
+      height: 40px;
+      width: 130px;
+      background-color:blue;
+      border-color:blue;
+      color: white;
+  }
+  button.btn2{
+    border-radius: 30px;
+      height: 40px;
+      width: 130px;
+      background-color:white;
+      border-color:blue;
+      color:blue;
+  }
+  img.img2{
+    height: 20px;
+    width:20px;
+    position: absolute;
+    left:350px;
+    top:510px;
+  }
+  img.img3{
+    height: 30px;
+    width:40px;   
+  }
+  img.img4{
+    height: 20px;
+    width:40px;   
+  }
+  img.img5{
+    height: 40px;
+    width:55px;   
+  }
